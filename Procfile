@@ -1,1 +1,1 @@
-web: gunicorn backend.wsgi
+web: gunicorn annoucement_api.wsgi
